@@ -1,0 +1,21 @@
+.country{
+    border: 2px solid crimson;
+    margin: 15px;
+    border-radius: 15px;
+    padding: 15px;
+}
+.img{
+    width: 300px;
+    height: 200px;
+}
+
+.visited{
+    background-color: steelblue;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
